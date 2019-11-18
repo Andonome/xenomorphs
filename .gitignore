@@ -27,6 +27,4 @@ main.m*
 *pdf
 .no.md
 *.bcf
-*.bib
 *.run.xml
-*.tex
